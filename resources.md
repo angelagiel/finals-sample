@@ -21,3 +21,5 @@
 
 
 
+asmr 
+- https://s3.tradingview.com/tv.js
