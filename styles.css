@@ -202,7 +202,7 @@ header {
     color: #fff;
 }
 
-.coin__chart {
+#coin__chart {
     height: 100%;
     width: 100%;
     border: 1px solid #494571;
